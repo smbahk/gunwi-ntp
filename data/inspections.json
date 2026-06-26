@@ -1,0 +1,25 @@
+{
+  "화북442": {
+    "id": "화북442",
+    "address": "화북442",
+    "checkDate": "2026-6-27",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "안내푯지 파손",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1596955,
+    "gpsLng": 128.8774228,
+    "gpsAccuracy": 4,
+    "distFromPoint": 1,
+    "gpsAt": "2026-06-26T23:11:08.462Z",
+    "updatedAt": "2026-06-26T23:11:08.462Z",
+    "farPhotoLocal": "442_far_x_20260627_081108.jpg",
+    "closePhotoLocal": "442_close_x_20260627_081108.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/442_far_x_20260627_081108.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/442_close_x_20260627_081108.jpg"
+  }
+}
