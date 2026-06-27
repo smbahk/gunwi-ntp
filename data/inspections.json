@@ -159,5 +159,28 @@
     "closePhotoLocal": "411_close_x_20260627_160007.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/411_far_x_20260627_160007.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/411_close_x_20260627_160007.jpg"
+  },
+  "U화북23": {
+    "id": "U화북23",
+    "address": "U화북23",
+    "checkDate": "2026-6-27",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "완전",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1926298,
+    "gpsLng": 128.8226993,
+    "gpsAccuracy": 5,
+    "distFromPoint": 1,
+    "gpsAt": "2026-06-27T08:15:01.107Z",
+    "updatedAt": "2026-06-27T08:15:01.107Z",
+    "farPhotoLocal": "U23_far_x_20260627_171501.jpg",
+    "closePhotoLocal": "U23_close_x_20260627_171501.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U23_far_x_20260627_171501.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U23_close_x_20260627_171501.jpg"
   }
 }
