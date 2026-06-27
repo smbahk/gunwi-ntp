@@ -57,16 +57,16 @@
       "보호석": "완전",
       "보호콘크리트": "완전"
     },
-    "gpsLat": 36.1693062,
-    "gpsLng": 128.8702946,
+    "gpsLat": 36.1693118,
+    "gpsLng": 128.8702905,
     "gpsAccuracy": 4,
-    "distFromPoint": 2,
-    "gpsAt": "2026-06-27T01:02:27.702Z",
-    "updatedAt": "2026-06-27T01:02:27.702Z",
-    "farPhotoLocal": "U35_far_x_20260627_100227.jpg",
-    "closePhotoLocal": "U35_close_x_20260627_100227.jpg",
-    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U35_far_x_20260627_100227.jpg",
-    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U35_close_x_20260627_100227.jpg"
+    "distFromPoint": 3,
+    "gpsAt": "2026-06-27T08:49:50.366Z",
+    "updatedAt": "2026-06-27T08:49:50.366Z",
+    "farPhotoLocal": "U35_far_x_20260627_174950.jpg",
+    "closePhotoLocal": "U35_close_x_20260627_174950.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U35_far_x_20260627_174950.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U35_close_x_20260627_174950.jpg"
   },
   "04-00-30-07": {
     "id": "04-00-30-07",
