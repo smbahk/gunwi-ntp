@@ -182,5 +182,28 @@
     "closePhotoLocal": "U23_close_x_20260627_171501.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U23_far_x_20260627_171501.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U23_close_x_20260627_171501.jpg"
+  },
+  "04-00-30-06": {
+    "id": "04-00-30-06",
+    "address": "04-00-30-06",
+    "checkDate": "2026-6-27",
+    "inspector": "이춘식",
+    "checkStatus": "파손",
+    "checkResult": "보호석 3개 파손 1개 반파",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "파손",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1701284,
+    "gpsLng": 128.8389611,
+    "gpsAccuracy": 5,
+    "distFromPoint": 2,
+    "gpsAt": "2026-06-27T08:39:46.601Z",
+    "updatedAt": "2026-06-27T08:39:46.601Z",
+    "farPhotoLocal": "04-00-30-06_far_x_20260627_173946.jpg",
+    "closePhotoLocal": "04-00-30-06_close_x_20260627_173946.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-06_far_x_20260627_173946.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-06_close_x_20260627_173946.jpg"
   }
 }
