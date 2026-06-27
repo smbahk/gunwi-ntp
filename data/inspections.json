@@ -90,5 +90,28 @@
     "closePhotoLocal": "04-00-30-07_close_x_20260627_103906.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-07_far_x_20260627_103906.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-07_close_x_20260627_103906.jpg"
+  },
+  "화북302": {
+    "id": "화북302",
+    "address": "화북302",
+    "checkDate": "2026-6-27",
+    "inspector": "이춘식",
+    "checkStatus": "멸실",
+    "checkResult": "풍력발전기 건설로 멸실됨",
+    "surveyItems": {
+      "표석": "멸실",
+      "보호석": "없음",
+      "보호콘크리트": "멸실"
+    },
+    "gpsLat": 36.1999052,
+    "gpsLng": 128.8549131,
+    "gpsAccuracy": 4,
+    "distFromPoint": 10,
+    "gpsAt": "2026-06-27T02:19:39.783Z",
+    "updatedAt": "2026-06-27T02:19:39.783Z",
+    "farPhotoLocal": "302_far_x_20260627_111939.jpg",
+    "closePhotoLocal": "302_close_x_20260627_111939.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/302_far_x_20260627_111939.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/302_close_x_20260627_111939.jpg"
   }
 }
