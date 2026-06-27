@@ -80,16 +80,16 @@
       "보호석": "완전",
       "보호콘크리트": "완전"
     },
-    "gpsLat": 36.1746651,
-    "gpsLng": 128.8546394,
-    "gpsAccuracy": 27,
-    "distFromPoint": 3,
-    "gpsAt": "2026-06-27T01:39:06.690Z",
-    "updatedAt": "2026-06-27T01:39:06.690Z",
-    "farPhotoLocal": "04-00-30-07_far_x_20260627_103906.jpg",
-    "closePhotoLocal": "04-00-30-07_close_x_20260627_103906.jpg",
-    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-07_far_x_20260627_103906.jpg",
-    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-07_close_x_20260627_103906.jpg"
+    "gpsLat": 36.1748279,
+    "gpsLng": 128.8551842,
+    "gpsAccuracy": 93,
+    "distFromPoint": 54,
+    "gpsAt": "2026-06-27T02:48:19.128Z",
+    "updatedAt": "2026-06-27T02:48:19.128Z",
+    "farPhotoLocal": "04-00-30-07_far_x_20260627_114819.jpg",
+    "closePhotoLocal": "04-00-30-07_close_x_20260627_114819.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-07_far_x_20260627_114819.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-07_close_x_20260627_114819.jpg"
   },
   "화북302": {
     "id": "화북302",
