@@ -21,5 +21,28 @@
     "closePhotoLocal": "442_close_x_20260627_081108.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/442_far_x_20260627_081108.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/442_close_x_20260627_081108.jpg"
+  },
+  "화북413": {
+    "id": "화북413",
+    "address": "화북413",
+    "checkDate": "2026-6-27",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1806798,
+    "gpsLng": 128.8731831,
+    "gpsAccuracy": 4,
+    "distFromPoint": 2,
+    "gpsAt": "2026-06-27T00:14:06.484Z",
+    "updatedAt": "2026-06-27T00:14:06.484Z",
+    "farPhotoLocal": "413_far_x_20260627_091406.jpg",
+    "closePhotoLocal": "413_close_x_20260627_091406.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/413_far_x_20260627_091406.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/413_close_x_20260627_091406.jpg"
   }
 }
