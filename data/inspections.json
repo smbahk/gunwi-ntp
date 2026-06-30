@@ -343,5 +343,28 @@
     "closePhotoLocal": "04-00-30-04_close_x_20260628_180211.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-04_far_x_20260628_180211.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/04-00-30-04_close_x_20260628_180211.jpg"
+  },
+  "화북23": {
+    "id": "화북23",
+    "address": "화북23",
+    "checkDate": "2026-7-1",
+    "inspector": "이춘식",
+    "checkStatus": "파손",
+    "checkResult": "보호콘크리트 파손",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "파손"
+    },
+    "gpsLat": 36.1421436,
+    "gpsLng": 128.8565926,
+    "gpsAccuracy": 5,
+    "distFromPoint": 0,
+    "gpsAt": "2026-06-30T23:59:24.723Z",
+    "updatedAt": "2026-06-30T23:59:24.723Z",
+    "farPhotoLocal": "23_far_x_20260701_085924.jpg",
+    "closePhotoLocal": "23_close_x_20260701_085924.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/23_far_x_20260701_085924.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/23_close_x_20260701_085924.jpg"
   }
 }
