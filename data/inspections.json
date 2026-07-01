@@ -366,5 +366,28 @@
     "closePhotoLocal": "23_close_x_20260701_085924.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/23_far_x_20260701_085924.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/23_close_x_20260701_085924.jpg"
+  },
+  "화북406": {
+    "id": "화북406",
+    "address": "화북406",
+    "checkDate": "2026-7-1",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "안내푯지판 파손",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1773061,
+    "gpsLng": 128.7928569,
+    "gpsAccuracy": 4,
+    "distFromPoint": 2,
+    "gpsAt": "2026-07-01T03:34:47.020Z",
+    "updatedAt": "2026-07-01T03:34:47.020Z",
+    "farPhotoLocal": "406_far_x_20260701_123447.jpg",
+    "closePhotoLocal": "406_close_x_20260701_123447.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/406_far_x_20260701_123447.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/406_close_x_20260701_123447.jpg"
   }
 }
