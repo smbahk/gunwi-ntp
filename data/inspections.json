@@ -642,5 +642,28 @@
     "closePhotoLocal": "U41_close_x_20260704_115452.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U41_far_x_20260704_115452.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U41_close_x_20260704_115452.jpg"
+  },
+  "화북455": {
+    "id": "화북455",
+    "address": "화북455",
+    "checkDate": "2026-7-4",
+    "inspector": "이춘식",
+    "checkStatus": "파손",
+    "checkResult": "보호 콘크리트 멸실",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "멸실"
+    },
+    "gpsLat": 36.1456593,
+    "gpsLng": 128.7524369,
+    "gpsAccuracy": 4,
+    "distFromPoint": 3,
+    "gpsAt": "2026-07-04T04:33:56.825Z",
+    "updatedAt": "2026-07-04T04:33:56.825Z",
+    "farPhotoLocal": "455_far_x_20260704_133356.jpg",
+    "closePhotoLocal": "455_close_x_20260704_133356.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/455_far_x_20260704_133356.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/455_close_x_20260704_133356.jpg"
   }
 }
