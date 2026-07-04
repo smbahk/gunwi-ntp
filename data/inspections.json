@@ -619,5 +619,28 @@
     "closePhotoLocal": "315_close_x_20260704_110844.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/315_far_x_20260704_110844.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/315_close_x_20260704_110844.jpg"
+  },
+  "U화북41": {
+    "id": "U화북41",
+    "address": "U화북41",
+    "checkDate": "2026-7-4",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "안내푯말 파손",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "완전",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1359069,
+    "gpsLng": 128.7494786,
+    "gpsAccuracy": 4,
+    "distFromPoint": 2,
+    "gpsAt": "2026-07-04T02:54:52.310Z",
+    "updatedAt": "2026-07-04T02:54:52.310Z",
+    "farPhotoLocal": "U41_far_x_20260704_115452.jpg",
+    "closePhotoLocal": "U41_close_x_20260704_115452.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U41_far_x_20260704_115452.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U41_close_x_20260704_115452.jpg"
   }
 }
