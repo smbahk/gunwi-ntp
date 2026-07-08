@@ -1171,5 +1171,28 @@
     "closePhotoLocal": "431_close_x_20260708_141026.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/431_far_x_20260708_141026.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/431_close_x_20260708_141026.jpg"
+  },
+  "군위23": {
+    "id": "군위23",
+    "address": "군위23",
+    "checkDate": "2026-7-8",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.166234,
+    "gpsLng": 128.7197176,
+    "gpsAccuracy": 40,
+    "distFromPoint": 1,
+    "gpsAt": "2026-07-08T06:02:41.424Z",
+    "updatedAt": "2026-07-08T06:02:41.424Z",
+    "farPhotoLocal": "23_far_x_20260708_150241.jpg",
+    "closePhotoLocal": "23_close_x_20260708_150241.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/23_far_x_20260708_150241.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/23_close_x_20260708_150241.jpg"
   }
 }
