@@ -1148,5 +1148,28 @@
     "closePhotoLocal": "U49_close_x_20260708_133414.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U49_far_x_20260708_133414.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U49_close_x_20260708_133414.jpg"
+  },
+  "군위431": {
+    "id": "군위431",
+    "address": "군위431",
+    "checkDate": "2026-7-8",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "안내표지판 부분 파손 시트지벗겨짐",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1397177,
+    "gpsLng": 128.7138835,
+    "gpsAccuracy": 4,
+    "distFromPoint": 1,
+    "gpsAt": "2026-07-08T05:10:26.605Z",
+    "updatedAt": "2026-07-08T05:10:26.605Z",
+    "farPhotoLocal": "431_far_x_20260708_141026.jpg",
+    "closePhotoLocal": "431_close_x_20260708_141026.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/431_far_x_20260708_141026.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/431_close_x_20260708_141026.jpg"
   }
 }
