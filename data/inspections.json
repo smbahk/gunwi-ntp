@@ -1769,5 +1769,28 @@
     "closePhotoLocal": "437_close_x_20260717_092727.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/437_far_x_20260717_092727.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/437_close_x_20260717_092727.jpg"
+  },
+  "군위433": {
+    "id": "군위433",
+    "address": "군위433",
+    "checkDate": "2026-7-17",
+    "inspector": "이춘식",
+    "checkStatus": "파손",
+    "checkResult": "보호 콘크리트 파손",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "파손"
+    },
+    "gpsLat": 36.1572775,
+    "gpsLng": 128.6944966,
+    "gpsAccuracy": 5,
+    "distFromPoint": 1,
+    "gpsAt": "2026-07-17T01:39:25.390Z",
+    "updatedAt": "2026-07-17T01:39:25.390Z",
+    "farPhotoLocal": "433_far_x_20260717_103925.jpg",
+    "closePhotoLocal": "433_close_x_20260717_103925.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/433_far_x_20260717_103925.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/433_close_x_20260717_103925.jpg"
   }
 }
