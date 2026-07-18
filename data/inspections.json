@@ -2068,5 +2068,28 @@
     "closePhotoLocal": "14-09-00_close_x_20260718_121906.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-09-00_far_x_20260718_121906.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-09-00_close_x_20260718_121906.jpg"
+  },
+  "U0653": {
+    "id": "U0653",
+    "address": "U0653",
+    "checkDate": "2026-7-18",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "보호콘크리트 일부 팬스에 가람",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1215473,
+    "gpsLng": 128.5763868,
+    "gpsAccuracy": 6,
+    "distFromPoint": 2,
+    "gpsAt": "2026-07-18T03:21:23.884Z",
+    "updatedAt": "2026-07-18T03:21:23.884Z",
+    "farPhotoLocal": "U0653_far_x_20260718_122123.jpg",
+    "closePhotoLocal": "U0653_close_x_20260718_122123.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U0653_far_x_20260718_122123.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U0653_close_x_20260718_122123.jpg"
   }
 }
