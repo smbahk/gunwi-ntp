@@ -2160,5 +2160,28 @@
     "closePhotoLocal": "446_close_x_20260718_164220.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/446_far_x_20260718_164220.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/446_close_x_20260718_164220.jpg"
+  },
+  "U군위64": {
+    "id": "U군위64",
+    "address": "U군위64",
+    "checkDate": "2026-7-18",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "완전",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.0908388,
+    "gpsLng": 128.5927377,
+    "gpsAccuracy": 5,
+    "distFromPoint": 1,
+    "gpsAt": "2026-07-18T08:52:09.299Z",
+    "updatedAt": "2026-07-18T08:52:09.299Z",
+    "farPhotoLocal": "U64_far_x_20260718_175209.jpg",
+    "closePhotoLocal": "U64_close_x_20260718_175209.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U64_far_x_20260718_175209.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U64_close_x_20260718_175209.jpg"
   }
 }
