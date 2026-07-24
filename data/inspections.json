@@ -2436,5 +2436,28 @@
     "closePhotoLocal": "447_close_x_20260722_180143.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/447_far_x_20260722_180143.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/447_close_x_20260722_180143.jpg"
+  },
+  "군위450": {
+    "id": "군위450",
+    "address": "군위450",
+    "checkDate": "2026-7-25",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.1648764,
+    "gpsLng": 128.5524915,
+    "gpsAccuracy": 4,
+    "distFromPoint": 2,
+    "gpsAt": "2026-07-24T22:21:49.666Z",
+    "updatedAt": "2026-07-24T22:21:49.666Z",
+    "farPhotoLocal": "450_far_x_20260725_072149.jpg",
+    "closePhotoLocal": "450_close_x_20260725_072149.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/450_far_x_20260725_072149.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/450_close_x_20260725_072149.jpg"
   }
 }
