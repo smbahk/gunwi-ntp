@@ -2528,5 +2528,26 @@
     "closePhotoLocal": "14-12-00_close_x_20260725_110559.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-12-00_far_x_20260725_110559.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-12-00_close_x_20260725_110559.jpg"
+  },
+  "군위407": {
+    "id": "군위407",
+    "address": "군위407",
+    "checkDate": "2026-7-25",
+    "inspector": "이춘식",
+    "checkStatus": "불량",
+    "checkResult": "표석 상부 파손",
+    "surveyItems": {
+      "표석": "파손",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2227806,
+    "gpsLng": 128.5645229,
+    "gpsAccuracy": 4,
+    "distFromPoint": 5,
+    "gpsAt": "2026-07-25T02:35:22.031Z",
+    "updatedAt": "2026-07-25T02:35:22.031Z",
+    "farPhotoLocal": "407_far_x_20260725_113522.jpg",
+    "closePhotoLocal": "407_close_x_20260725_113522.jpg"
   }
 }
