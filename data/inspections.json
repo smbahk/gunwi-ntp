@@ -2549,5 +2549,51 @@
     "updatedAt": "2026-07-25T02:35:22.031Z",
     "farPhotoLocal": "407_far_x_20260725_113522.jpg",
     "closePhotoLocal": "407_close_x_20260725_113522.jpg"
+  },
+  "군위406": {
+    "id": "군위406",
+    "address": "군위406",
+    "checkDate": "2026-7-25",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2052037,
+    "gpsLng": 128.5461271,
+    "gpsAccuracy": 4,
+    "distFromPoint": 3,
+    "gpsAt": "2026-07-25T04:49:57.568Z",
+    "updatedAt": "2026-07-25T04:49:57.568Z",
+    "farPhotoLocal": "406_far_x_20260725_134957.jpg",
+    "closePhotoLocal": "406_close_x_20260725_134957.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/406_far_x_20260725_134957.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/406_close_x_20260725_134957.jpg"
+  },
+  "군위21": {
+    "id": "군위21",
+    "address": "군위21",
+    "checkDate": "2026-7-25",
+    "inspector": "이춘식",
+    "checkStatus": "파손",
+    "checkResult": "보호 콘크리트 멸실",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "멸실"
+    },
+    "gpsLat": 36.2270474,
+    "gpsLng": 128.5348834,
+    "gpsAccuracy": 4,
+    "distFromPoint": 5,
+    "gpsAt": "2026-07-25T06:12:48.203Z",
+    "updatedAt": "2026-07-25T06:12:48.203Z",
+    "farPhotoLocal": "21_far_x_20260725_151248.jpg",
+    "closePhotoLocal": "21_close_x_20260725_151248.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/21_far_x_20260725_151248.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/21_close_x_20260725_151248.jpg"
   }
 }
