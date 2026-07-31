@@ -2963,5 +2963,28 @@
     "closePhotoLocal": "423_close_x_20260801_080245.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/423_far_x_20260801_080245.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/423_close_x_20260801_080245.jpg"
+  },
+  "U구미05": {
+    "id": "U구미05",
+    "address": "U구미05",
+    "checkDate": "2026-8-1",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "완전",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2387318,
+    "gpsLng": 128.4641825,
+    "gpsAccuracy": 37,
+    "distFromPoint": 20,
+    "gpsAt": "2026-07-31T23:41:21.036Z",
+    "updatedAt": "2026-07-31T23:41:21.036Z",
+    "farPhotoLocal": "U05_far_x_20260801_084121.jpg",
+    "closePhotoLocal": "U05_close_x_20260801_084121.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U05_far_x_20260801_084121.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U05_close_x_20260801_084121.jpg"
   }
 }
