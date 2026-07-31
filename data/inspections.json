@@ -2917,5 +2917,28 @@
     "closePhotoLocal": "U91_close_x_20260726_181622.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U91_far_x_20260726_181622.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U91_close_x_20260726_181622.jpg"
+  },
+  "구미420": {
+    "id": "구미420",
+    "address": "구미420",
+    "checkDate": "2026-8-1",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2420928,
+    "gpsLng": 128.4299977,
+    "gpsAccuracy": 4,
+    "distFromPoint": 1,
+    "gpsAt": "2026-07-31T21:58:45.638Z",
+    "updatedAt": "2026-07-31T21:58:45.638Z",
+    "farPhotoLocal": "420_far_x_20260801_065845.jpg",
+    "closePhotoLocal": "420_close_x_20260801_065845.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/420_far_x_20260801_065845.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/420_close_x_20260801_065845.jpg"
   }
 }
