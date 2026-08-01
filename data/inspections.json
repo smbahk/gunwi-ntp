@@ -3170,5 +3170,28 @@
     "closePhotoLocal": "U79_close_x_20260801_181751.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U79_far_x_20260801_181751.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U79_close_x_20260801_181751.jpg"
+  },
+  "안계319": {
+    "id": "안계319",
+    "address": "안계319",
+    "checkDate": "2026-8-2",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2915624,
+    "gpsLng": 128.4627444,
+    "gpsAccuracy": 6,
+    "distFromPoint": 1,
+    "gpsAt": "2026-08-01T22:34:08.345Z",
+    "updatedAt": "2026-08-01T22:34:08.345Z",
+    "farPhotoLocal": "319_far_x_20260802_073408.jpg",
+    "closePhotoLocal": "319_close_x_20260802_073408.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/319_far_x_20260802_073408.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/319_close_x_20260802_073408.jpg"
   }
 }
