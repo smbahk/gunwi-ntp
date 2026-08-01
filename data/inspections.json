@@ -3124,5 +3124,28 @@
     "closePhotoLocal": "468_close_x_20260801_165901.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/468_far_x_20260801_165901.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/468_close_x_20260801_165901.jpg"
+  },
+  "U안계88": {
+    "id": "U안계88",
+    "address": "U안계88",
+    "checkDate": "2026-8-1",
+    "inspector": "이춘식",
+    "checkStatus": "파손",
+    "checkResult": "보호석 1개 파손",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "파손",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2924007,
+    "gpsLng": 128.4332289,
+    "gpsAccuracy": 100,
+    "distFromPoint": 552,
+    "gpsAt": "2026-08-01T08:55:02.425Z",
+    "updatedAt": "2026-08-01T08:55:02.425Z",
+    "farPhotoLocal": "U88_far_x_20260801_175502.jpg",
+    "closePhotoLocal": "U88_close_x_20260801_175502.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U88_far_x_20260801_175502.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U88_close_x_20260801_175502.jpg"
   }
 }
