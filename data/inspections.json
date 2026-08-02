@@ -3262,5 +3262,28 @@
     "closePhotoLocal": "473_close_x_20260802_105429.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/473_far_x_20260802_105429.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/473_close_x_20260802_105429.jpg"
+  },
+  "의성24": {
+    "id": "의성24",
+    "address": "의성24",
+    "checkDate": "2026-8-2",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.3004131,
+    "gpsLng": 128.5217719,
+    "gpsAccuracy": 4,
+    "distFromPoint": 1,
+    "gpsAt": "2026-08-02T04:18:47.217Z",
+    "updatedAt": "2026-08-02T04:18:47.217Z",
+    "farPhotoLocal": "24_far_x_20260802_131847.jpg",
+    "closePhotoLocal": "24_close_x_20260802_131847.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/24_far_x_20260802_131847.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/24_close_x_20260802_131847.jpg"
   }
 }
