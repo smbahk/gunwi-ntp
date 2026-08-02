@@ -3239,5 +3239,28 @@
     "closePhotoLocal": "U89_close_x_20260802_093456.jpg",
     "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U89_far_x_20260802_093456.jpg",
     "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/U89_close_x_20260802_093456.jpg"
+  },
+  "안계473": {
+    "id": "안계473",
+    "address": "안계473",
+    "checkDate": "2026-8-2",
+    "inspector": "이춘식",
+    "checkStatus": "완전",
+    "checkResult": "",
+    "surveyItems": {
+      "표석": "완전",
+      "보호석": "없음",
+      "보호콘크리트": "완전"
+    },
+    "gpsLat": 36.2894433,
+    "gpsLng": 128.4850356,
+    "gpsAccuracy": 4,
+    "distFromPoint": 2,
+    "gpsAt": "2026-08-02T01:54:29.271Z",
+    "updatedAt": "2026-08-02T01:54:29.271Z",
+    "farPhotoLocal": "473_far_x_20260802_105429.jpg",
+    "closePhotoLocal": "473_close_x_20260802_105429.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/473_far_x_20260802_105429.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/473_close_x_20260802_105429.jpg"
   }
 }
