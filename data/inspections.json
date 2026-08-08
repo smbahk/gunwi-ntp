@@ -2509,7 +2509,7 @@
   "14-12-00": {
     "id": "14-12-00",
     "address": "14-12-00",
-    "checkDate": "2026-7-25",
+    "checkDate": "2026-8-8",
     "inspector": "이춘식",
     "checkStatus": "완전",
     "checkResult": "",
@@ -2518,16 +2518,16 @@
       "보호석": "완전",
       "보호콘크리트": "완전"
     },
-    "gpsLat": 36.1984145,
-    "gpsLng": 128.5640772,
-    "gpsAccuracy": 4,
-    "distFromPoint": 3,
-    "gpsAt": "2026-07-25T02:05:59.391Z",
-    "updatedAt": "2026-07-25T02:05:59.391Z",
-    "farPhotoLocal": "14-12-00_far_x_20260725_110559.jpg",
-    "closePhotoLocal": "14-12-00_close_x_20260725_110559.jpg",
-    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-12-00_far_x_20260725_110559.jpg",
-    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-12-00_close_x_20260725_110559.jpg"
+    "gpsLat": 36.1973577,
+    "gpsLng": 128.5639559,
+    "gpsAccuracy": 100,
+    "distFromPoint": 115,
+    "gpsAt": "2026-08-08T01:38:56.898Z",
+    "updatedAt": "2026-08-08T01:38:56.898Z",
+    "farPhotoLocal": "14-12-00_far_x_20260808_103856.jpg",
+    "closePhotoLocal": "14-12-00_close_x_20260808_103856.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-12-00_far_x_20260808_103856.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/14-12-00_close_x_20260808_103856.jpg"
   },
   "군위407": {
     "id": "군위407",
