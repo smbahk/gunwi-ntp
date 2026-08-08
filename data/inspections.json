@@ -3197,7 +3197,7 @@
   "안계470": {
     "id": "안계470",
     "address": "안계470",
-    "checkDate": "2026-8-2",
+    "checkDate": "2026-8-8",
     "inspector": "이춘식",
     "checkStatus": "완전",
     "checkResult": "",
@@ -3206,16 +3206,16 @@
       "보호석": "없음",
       "보호콘크리트": "완전"
     },
-    "gpsLat": 36.3132936,
-    "gpsLng": 128.4566017,
-    "gpsAccuracy": 5,
+    "gpsLat": 36.3132976,
+    "gpsLng": 128.4566231,
+    "gpsAccuracy": 7,
     "distFromPoint": 1,
-    "gpsAt": "2026-08-01T23:41:54.201Z",
-    "updatedAt": "2026-08-01T23:41:54.201Z",
-    "farPhotoLocal": "470_far_x_20260802_084154.jpg",
-    "closePhotoLocal": "470_close_x_20260802_084154.jpg",
-    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/470_far_x_20260802_084154.jpg",
-    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/470_close_x_20260802_084154.jpg"
+    "gpsAt": "2026-08-08T02:40:04.384Z",
+    "updatedAt": "2026-08-08T02:40:04.384Z",
+    "farPhotoLocal": "470_far_x_20260808_114004.jpg",
+    "closePhotoLocal": "470_close_x_20260808_114004.jpg",
+    "farPhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/470_far_x_20260808_114004.jpg",
+    "closePhotoUrl": "https://raw.githubusercontent.com/smbahk/gunwi-ntp/main/photos/470_close_x_20260808_114004.jpg"
   },
   "U안계89": {
     "id": "U안계89",
